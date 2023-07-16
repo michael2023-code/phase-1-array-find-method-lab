@@ -5,9 +5,9 @@ function superbowlWin(array) {
   }
 
   const reords= [
-    { year: 2015, result: "L" },
-    { year: 2014, result: "W" },
-    { year: 2013, result: "L" },
+    { year: 2016, result: "L" },
+    { year: 2015, result: "W" },
+    { year: 2014, result: "L" },
   ];
   
   console.log(superbowlWin(records)); 
